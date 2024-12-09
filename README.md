@@ -6,8 +6,14 @@
 
 [CSES: Apartments](https://github.com/nebl-annamaria/alga_01)
 
-### 2. feladat: Rekurzióval megoldható feladatok
+### 2. feladat: Rekurzióval megoldható feladatok - folyamatban
 
-### 3. feladat: Dinamikus programozási feladat
+[CSES: Labyrinth](https://cses.fi/problemset/task/1193)
 
-### 4. feladat: Fák, Gráfok
+### 3. feladat: Dinamikus programozási feladat - folyamatban
+
+[CSES: Removal Game](https://cses.fi/problemset/task/1097)
+
+### 4. feladat: Fák, Gráfok - folyamatban
+
+[CSES: Monsters](https://cses.fi/problemset/task/1194)
