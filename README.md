@@ -8,12 +8,12 @@
 
 ### 2. feladat: Rekurzióval megoldható feladatok - folyamatban
 
-[CSES: Labyrinth](https://cses.fi/problemset/task/1193)
+[CSES: Digit queries](https://github.com/nebl-annamaria/alga_02)
 
 ### 3. feladat: Dinamikus programozási feladat - folyamatban
 
-[CSES: Removal Game](https://cses.fi/problemset/task/1097)
+[CSES: Removal Game](https://github.com/nebl-annamaria/alga_03)
 
 ### 4. feladat: Fák, Gráfok - folyamatban
 
-[CSES: Monsters](https://cses.fi/problemset/task/1194)
+[CSES: Labyrinth](https://github.com/nebl-annamaria/alga_04)
