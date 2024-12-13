@@ -17,3 +17,7 @@
 ### 4. feladat: Fák, Gráfok
 
 [CSES: Labyrinth](https://github.com/nebl-annamaria/alga_04)
+
+### 5. feladat: Kollokvium
+
+[SPOJ: MCARDS - Card Sorting](https://github.com/nebl-annamaria/alga_kollokvium)
